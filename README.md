@@ -13,7 +13,7 @@ A Python script to display the weather report of any city.
 
 ## Demo
 
-https://user-images.githubusercontent.com/93263738/203813910-7b5ab5d7-b72a-423a-9851-220c2d7d7340.png
+[!https://user-images.githubusercontent.com/93263738/203813910-7b5ab5d7-b72a-423a-9851-220c2d7d7340.png]
 
 ## Deployment
 
