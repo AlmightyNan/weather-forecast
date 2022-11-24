@@ -13,8 +13,7 @@ A Python script to display the weather report of any city.
 
 ## Demo
 
-https://media.discordapp.net/attachments/982190837138063410/1045351342501277706/image.png?width=885&height=655
-
+https://github.com/AlmightyNan/weather-forecast/blob/main/images/image.png?raw=true
 
 ## Deployment
 
